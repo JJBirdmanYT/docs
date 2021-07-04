@@ -12,7 +12,7 @@ But why does Rythm ask for a different amount of votes each time, and sometimes 
 
 ## How many votes are required for a song to be vote skipped?
 ---
-For a vote skip to take effect, `75%` of the people in the voice channel need to vote to skip.
+For a vote skip to take effect, `50%` of the people in the voice channel need to vote to skip.
 
 **__Here's an example:__**
 1. Let's assume there are `10` users in a voice chat.
